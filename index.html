@@ -32,7 +32,8 @@
      
   </head>
   <body>
-    
+
+    <script>
     if('serviceWorker' in navigator) {
   navigator.serviceWorker
   .register('../service-worker.js')
@@ -43,6 +44,7 @@
     console.log("Service worker registration failed")
   });
 }
+    </script>
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <a class="navbar-brand" href="https://transformers.cards">
