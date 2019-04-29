@@ -32,6 +32,17 @@
      
   </head>
   <body>
+    
+    if('serviceWorker' in navigator) {
+  navigator.serviceWorker
+  .register('../service-worker.js')
+  .then(function() {
+    console.log("Service Worker registered successfully");
+  })
+  .catch(function() {
+    console.log("Service worker registration failed")
+  });
+}
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <a class="navbar-brand" href="https://transformers.cards">
