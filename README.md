@@ -4,6 +4,8 @@ Transformers.cards was an unofficial progressive "web app" for displaying card a
 
 It was 'built' with HTML/CSS and JavaScript. The product/card data was cstored in an [Airtable](https://airtable.com) database, which can be queried via an API, to facilitate integration with third-party applications.
 
+Transformers.card ceased operations on January 1st, 2020.
+
 ### API
 
 Though the site is now gone, API access continues to be available until January 1, 2021. Documentation for the [Transformers.cards](https://transformers.cards) API can be found here: https://transformers.cards/api
