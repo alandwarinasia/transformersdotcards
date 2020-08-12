@@ -2,7 +2,7 @@
 
 Transformers.cards was an unofficial progressive "web app" for displaying card and product information from Hasbro's [Transformers TCG](https://transformers.hasbro.com/en-us/tradingcardgame) that was maintained by community members as a free service for other fans.
 
-It was 'built' with HTML/CSS and JavaScript. The product/card data was cstored in an [Airtable](https://airtable.com) database, which can be queried via an API, to facilitate integration with third-party applications.
+It was 'built' with HTML/CSS and JavaScript. The product/card data was stored in an [Airtable](https://airtable.com) database, which can be queried via an API, to facilitate integration with third-party applications.
 
 Transformers.card ceased operations on January 1st, 2020 and was eventually obsoleted by [FortressMaxmius.io](https://fortressmaximus.io).
 
